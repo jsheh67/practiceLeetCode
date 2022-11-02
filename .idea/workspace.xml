@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01a24ada-7ae9-4fe3-823c-8786350fb66a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DeepestLeavesSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GoalParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MergeNodesInBetweenZeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IsPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedListCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NumberOfArithmeticTriplets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SortingSentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decodeMessage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MinSumFourDigitSplit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MinSumFourDigitSplit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/StrictlyPalindromicNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StrictlyPalindromicNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maxCandies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/maxCandies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/smallestEvenMultiple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/smallestEvenMultiple.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,12 +40,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.GoalParser">
+  <component name="RunManager" selected="Application.IsPalindrome">
     <configuration name="GoalParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GoalParser" />
+      <module name="practiceLeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IsPalindrome" />
       <module name="practiceLeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -60,22 +66,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinSumFourDigitSplit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MinSumFourDigitSplit" />
+    <configuration name="SortingSentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortingSentence" />
       <module name="practiceLeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StrictlyPalindromicNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StrictlyPalindromicNumber" />
-      <module name="practiceLeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="maxCandies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maxCandies" />
+    <configuration name="decodeMessage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="decodeMessage" />
       <module name="practiceLeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IsPalindrome" />
+        <item itemvalue="Application.SortingSentence" />
+        <item itemvalue="Application.decodeMessage" />
         <item itemvalue="Application.GoalParser" />
         <item itemvalue="Application.MergeNodesInBetweenZeros" />
-        <item itemvalue="Application.maxCandies" />
-        <item itemvalue="Application.StrictlyPalindromicNumber" />
-        <item itemvalue="Application.MinSumFourDigitSplit" />
       </list>
     </recent_temporary>
   </component>
@@ -120,6 +119,34 @@
           <url>file://$PROJECT_DIR$/src/main/java/GoalParser.java</url>
           <line>3</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/decodeMessage.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/IsPalindrome.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/decodeMessage.java</url>
+          <line>5</line>
+          <properties class="decodeMessage" method="decodeMessage">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/SortingSentence.java</url>
+          <line>4</line>
+          <properties class="SortingSentence" method="sortSentence">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
