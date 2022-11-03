@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01a24ada-7ae9-4fe3-823c-8786350fb66a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CountItemsMatchingRule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LargestLocalValuesInMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CenterOfStarGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EquivalentStringArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NumberOfMatches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SortThePeople.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UniqueMorseCodeWords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,16 +43,16 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LargestLocalValuesInMatrix">
-    <configuration name="CountItemsMatchingRule" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CountItemsMatchingRule" />
+  <component name="RunManager" selected="Application.SortThePeople">
+    <configuration name="CenterOfStarGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CenterOfStarGraph" />
       <module name="practiceLeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IsPalindrome" />
+    <configuration name="CountItemsMatchingRule" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountItemsMatchingRule" />
       <module name="practiceLeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -63,15 +65,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortingSentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SortingSentence" />
+    <configuration name="SortThePeople" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortThePeople" />
       <module name="practiceLeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="decodeMessage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="decodeMessage" />
+    <configuration name="UniqueMorseCodeWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UniqueMorseCodeWords" />
       <module name="practiceLeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortThePeople" />
+        <item itemvalue="Application.UniqueMorseCodeWords" />
+        <item itemvalue="Application.CenterOfStarGraph" />
         <item itemvalue="Application.LargestLocalValuesInMatrix" />
         <item itemvalue="Application.CountItemsMatchingRule" />
-        <item itemvalue="Application.IsPalindrome" />
-        <item itemvalue="Application.SortingSentence" />
-        <item itemvalue="Application.decodeMessage" />
       </list>
     </recent_temporary>
   </component>
@@ -159,14 +161,25 @@
           </properties>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/CenterOfStarGraph.java</url>
+          <line>1</line>
+          <properties class="CenterOfStarGraph" method="findCenter">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/SortThePeople.java</url>
+          <line>6</line>
+          <properties class="SortThePeople" method="sortPeople">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="grid[i-1][i+1]" language="JAVA" />
-        <watch expression="maxLocal[1]" />
-        <watch expression="i" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>
