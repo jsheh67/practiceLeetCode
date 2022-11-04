@@ -5,31 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01a24ada-7ae9-4fe3-823c-8786350fb66a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/NovWeekOne/BinaryLinkedListToInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NovWeekOne/MaxProductDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NovWeekOne/ReverseWordsInStringThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NovWeekOne/RodsAndRings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NovWeekOne/OddLengthSubArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NovWeekOne/commonFactors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NovWeekOne/countEqualAndDivisiblePairsInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NovWeekOne/flipAndReverseImage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CenterOfStarGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NovWeekOne/CenterOfStarGraph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CountItemsMatchingRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NovWeekOne/CountItemsMatchingRule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DeepestLeavesSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NovWeekOne/DeepestLeavesSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/EquivalentStringArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NovWeekOne/EquivalentStringArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/GoalParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NovWeekOne/GoalParser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/IsPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NovWeekOne/IsPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LargestLocalValuesInMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NovWeekOne/LargestLocalValuesInMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LinkedListCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NovWeekOne/LinkedListCycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MergeNodesInBetweenZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NovWeekOne/MergeNodesInBetweenZeros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MinSumFourDigitSplit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NovWeekOne/MinSumFourDigitSplit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NumberOfArithmeticTriplets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NovWeekOne/NumberOfArithmeticTriplets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NumberOfMatches.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NovWeekOne/NumberOfMatches.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ReverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NovWeekOne/ReverseLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SortThePeople.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NovWeekOne/SortThePeople.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SortingSentence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NovWeekOne/SortingSentence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/StrictlyPalindromicNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NovWeekOne/StrictlyPalindromicNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UniqueMorseCodeWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NovWeekOne/UniqueMorseCodeWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/decodeMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NovWeekOne/decodeMessage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/maxCandies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NovWeekOne/maxCandies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/smallestEvenMultiple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NovWeekOne/smallestEvenMultiple.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +42,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RodsAndRings">
+  <component name="RunManager" selected="Application.RemoveOuterParenthesis">
     <configuration name="MaxProductDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NovWeekOne.MaxProductDifference" />
       <module name="practiceLeetCode" />
@@ -89,16 +69,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NovWeekOne.SortThePeople" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NovWeekOne.SortThePeople" />
+    <configuration name="OddLengthSubArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NovWeekOne.OddLengthSubArrays" />
       <module name="practiceLeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NovWeekOne.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NovWeekOne.UniqueMorseCodeWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NovWeekOne.UniqueMorseCodeWords" />
+    <configuration name="RemoveOuterParenthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NovWeekOne.RemoveOuterParenthesis" />
       <module name="practiceLeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NovWeekOne.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -118,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveOuterParenthesis" />
+        <item itemvalue="Application.OddLengthSubArrays" />
         <item itemvalue="Application.RodsAndRings" />
         <item itemvalue="Application.MaxProductDifference" />
         <item itemvalue="Application.NovWeekOne.ReverseWordsInStringThree" />
-        <item itemvalue="Application.NovWeekOne.SortThePeople" />
-        <item itemvalue="Application.NovWeekOne.UniqueMorseCodeWords" />
       </list>
     </recent_temporary>
   </component>
