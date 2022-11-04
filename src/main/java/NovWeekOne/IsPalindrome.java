@@ -1,3 +1,5 @@
+package NovWeekOne;
+
 import java.util.HashSet;
 
 public class IsPalindrome {

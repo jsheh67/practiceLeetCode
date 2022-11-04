@@ -1,3 +1,5 @@
+package NovWeekOne;
+
 public class EquivalentStringArrays {
     public boolean arrayStringsAreEqual(String[] word1, String[] word2) {
         StringBuilder builder = new StringBuilder();

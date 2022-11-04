@@ -1,3 +1,5 @@
+package NovWeekOne;
+
 public class NumberOfMatches {
     public int numberOfMatches(int n) {
         int count=0;

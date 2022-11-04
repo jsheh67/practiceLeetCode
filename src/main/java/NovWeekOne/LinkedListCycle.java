@@ -1,3 +1,5 @@
+package NovWeekOne;
+
 public class LinkedListCycle {
 
     class ListNode {

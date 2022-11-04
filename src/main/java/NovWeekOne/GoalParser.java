@@ -1,3 +1,5 @@
+package NovWeekOne;
+
 public class GoalParser {
     public static String interpret(String command) {
         StringBuilder builder=new StringBuilder();

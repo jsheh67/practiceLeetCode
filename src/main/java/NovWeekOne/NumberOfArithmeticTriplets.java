@@ -1,3 +1,5 @@
+package NovWeekOne;
+
 public class NumberOfArithmeticTriplets {
 
     //could improve with binary search

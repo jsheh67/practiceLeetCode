@@ -1,3 +1,5 @@
+package NovWeekOne;
+
 import javax.imageio.stream.ImageInputStream;
 import java.util.HashMap;
 import java.util.HashSet;

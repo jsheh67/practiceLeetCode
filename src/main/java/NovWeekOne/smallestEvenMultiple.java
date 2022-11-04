@@ -1,3 +1,5 @@
+package NovWeekOne;
+
 public class smallestEvenMultiple {
     public int smallestEvenMultiple(int n) {
         for(int i=2;i<150 ;i+=2){

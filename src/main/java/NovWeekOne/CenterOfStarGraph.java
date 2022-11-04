@@ -1,3 +1,5 @@
+package NovWeekOne;
+
 public class CenterOfStarGraph {
     public static int findCenter(int[][] edges) {
         int totalLength = edges[0].length*2;
