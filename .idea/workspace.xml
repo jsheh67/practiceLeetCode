@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01a24ada-7ae9-4fe3-823c-8786350fb66a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/NovWeekOne/OddLengthSubArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NovWeekOne/commonFactors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NovWeekOne/countEqualAndDivisiblePairsInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NovWeekOne/flipAndReverseImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NovWeekOne/CountAsterisks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NovWeekOne/ReverseVowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NovWeekTwo/CountSubstrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NovWeekTwo/ReplaceAllDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NovWeekTwo/ReverseInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NovWeekTwo/intersectionOfArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NovWeekTwo/maxSixNine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,35 +45,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RemoveOuterParenthesis">
-    <configuration name="MaxProductDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NovWeekOne.MaxProductDifference" />
-      <module name="practiceLeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="NovWeekOne.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NovWeekOne.ReverseWordsInStringThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NovWeekOne.ReverseWordsInStringThree" />
-      <module name="practiceLeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="NovWeekOne.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OddLengthSubArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NovWeekOne.OddLengthSubArrays" />
+  <component name="RunManager" selected="Application.ReverseInteger">
+    <configuration name="CountAsterisks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NovWeekOne.CountAsterisks" />
       <module name="practiceLeetCode" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +72,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RodsAndRings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NovWeekOne.RodsAndRings" />
+    <configuration name="ReverseInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NovWeekTwo.ReverseInteger" />
+      <module name="practiceLeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NovWeekTwo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseVowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NovWeekOne.ReverseVowels" />
       <module name="practiceLeetCode" />
       <extension name="coverage">
         <pattern>
@@ -108,13 +98,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="intersectionOfArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NovWeekTwo.intersectionOfArrays" />
+      <module name="practiceLeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NovWeekTwo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseInteger" />
+        <item itemvalue="Application.intersectionOfArrays" />
+        <item itemvalue="Application.ReverseVowels" />
+        <item itemvalue="Application.CountAsterisks" />
         <item itemvalue="Application.RemoveOuterParenthesis" />
-        <item itemvalue="Application.OddLengthSubArrays" />
-        <item itemvalue="Application.RodsAndRings" />
-        <item itemvalue="Application.MaxProductDifference" />
-        <item itemvalue="Application.NovWeekOne.ReverseWordsInStringThree" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +169,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/NovWeekOne/decodeMessage.java</url>
           <line>5</line>
-          <properties class="decodeMessage" method="decodeMessage">
+          <properties class="decodeMessage">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -175,7 +178,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/NovWeekOne/SortingSentence.java</url>
           <line>4</line>
-          <properties class="SortingSentence" method="sortSentence">
+          <properties class="NovWeekOne.SortingSentence">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -184,7 +187,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/NovWeekOne/LargestLocalValuesInMatrix.java</url>
           <line>3</line>
-          <properties class="LargestLocalValuesInMatrix" method="largestLocal">
+          <properties class="LargestLocalValuesInMatrix">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -193,7 +196,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/NovWeekOne/CenterOfStarGraph.java</url>
           <line>1</line>
-          <properties class="CenterOfStarGraph" method="findCenter">
+          <properties class="CenterOfStarGraph">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -202,11 +205,20 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/NovWeekOne/SortThePeople.java</url>
           <line>6</line>
-          <properties class="SortThePeople" method="sortPeople">
+          <properties class="NovWeekOne.SortThePeople">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/NovWeekTwo/ReverseInteger.java</url>
+          <line>4</line>
+          <properties class="NovWeekTwo.ReverseInteger" method="reverse">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
