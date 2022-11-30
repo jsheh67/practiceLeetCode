@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01a24ada-7ae9-4fe3-823c-8786350fb66a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/NovWeekOne/CountAsterisks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NovWeekOne/ReverseVowels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NovWeekTwo/CountSubstrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NovWeekTwo/ReplaceAllDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NovWeekTwo/ReverseInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NovWeekTwo/intersectionOfArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NovWeekTwo/maxSixNine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/UniqueNumberOfOccurances.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,22 +39,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ReverseInteger">
+  <component name="RunManager" selected="Application.UniqueNumberOfOccurances">
     <configuration name="CountAsterisks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NovWeekOne.CountAsterisks" />
-      <module name="practiceLeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="NovWeekOne.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RemoveOuterParenthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NovWeekOne.RemoveOuterParenthesis" />
       <module name="practiceLeetCode" />
       <extension name="coverage">
         <pattern>
@@ -98,6 +79,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UniqueNumberOfOccurances" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecWeek1.UniqueNumberOfOccurances" />
+      <module name="practiceLeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DecWeek1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="intersectionOfArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NovWeekTwo.intersectionOfArrays" />
       <module name="practiceLeetCode" />
@@ -113,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UniqueNumberOfOccurances" />
         <item itemvalue="Application.ReverseInteger" />
         <item itemvalue="Application.intersectionOfArrays" />
         <item itemvalue="Application.ReverseVowels" />
         <item itemvalue="Application.CountAsterisks" />
-        <item itemvalue="Application.RemoveOuterParenthesis" />
       </list>
     </recent_temporary>
   </component>
@@ -219,6 +213,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/DecWeek1/UniqueNumberOfOccurances.java</url>
+          <line>7</line>
+          <properties class="DecWeek1.UniqueNumberOfOccurances" method="uniqueOccurrences">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
