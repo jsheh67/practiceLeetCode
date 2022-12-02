@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01a24ada-7ae9-4fe3-823c-8786350fb66a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/UniqueNumberOfOccurances.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/BuddyString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/NumberOfConsistentStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/SortedArraytoBinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/StringHalvesAlike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/TwoStringsClose.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,13 +43,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.UniqueNumberOfOccurances">
-    <configuration name="CountAsterisks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NovWeekOne.CountAsterisks" />
+  <component name="RunManager" selected="Application.BuddyString">
+    <configuration name="BuddyString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecWeek1.BuddyString" />
       <module name="practiceLeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NovWeekOne.*" />
+          <option name="PATTERN" value="DecWeek1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NovWeekTwo.ReverseInteger" />
+    <configuration name="NumberOfConsistentStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecWeek1.NumberOfConsistentStrings" />
       <module name="practiceLeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NovWeekTwo.*" />
+          <option name="PATTERN" value="DecWeek1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +70,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseVowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NovWeekOne.ReverseVowels" />
+    <configuration name="StringHalvesAlike" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecWeek1.StringHalvesAlike" />
       <module name="practiceLeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NovWeekOne.*" />
+          <option name="PATTERN" value="DecWeek1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoStringsClose" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecWeek1.TwoStringsClose" />
+      <module name="practiceLeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DecWeek1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,26 +109,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="intersectionOfArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NovWeekTwo.intersectionOfArrays" />
-      <module name="practiceLeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="NovWeekTwo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BuddyString" />
+        <item itemvalue="Application.TwoStringsClose" />
+        <item itemvalue="Application.NumberOfConsistentStrings" />
+        <item itemvalue="Application.StringHalvesAlike" />
         <item itemvalue="Application.UniqueNumberOfOccurances" />
-        <item itemvalue="Application.ReverseInteger" />
-        <item itemvalue="Application.intersectionOfArrays" />
-        <item itemvalue="Application.ReverseVowels" />
-        <item itemvalue="Application.CountAsterisks" />
       </list>
     </recent_temporary>
   </component>
@@ -222,6 +226,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/DecWeek1/NumberOfConsistentStrings.java</url>
+          <line>4</line>
+          <properties class="DecWeek1.NumberOfConsistentStrings" method="countConsistentStrings">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
