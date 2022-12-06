@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01a24ada-7ae9-4fe3-823c-8786350fb66a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/CountWordsWithPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/DecryptStringFromAlphabetToInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/MergeStringsAlternately.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/OddEvenLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/ReverseIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/SelfDividingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/DestinationCity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/DivideArrayToEqualPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/FirstLetterToAppearTwice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/NRepeatedElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,9 +42,22 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ReverseIntegers">
+  <component name="RunManager" selected="Application.FirstLetterToAppearTwice">
     <configuration name="DecryptStringFromAlphabetToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DecWeek1.DecryptStringFromAlphabetToInteger" />
+      <module name="practiceLeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DecWeek1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstLetterToAppearTwice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecWeek1.FirstLetterToAppearTwice" />
       <module name="practiceLeetCode" />
       <extension name="coverage">
         <pattern>
@@ -97,26 +108,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReversePrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DecWeek1.ReversePrefix" />
-      <module name="practiceLeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DecWeek1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FirstLetterToAppearTwice" />
         <item itemvalue="Application.ReverseIntegers" />
         <item itemvalue="Application.DecryptStringFromAlphabetToInteger" />
         <item itemvalue="Application.OddEvenLinkedList" />
         <item itemvalue="Application.MatrixDiagonal" />
-        <item itemvalue="Application.ReversePrefix" />
       </list>
     </recent_temporary>
   </component>
@@ -263,6 +261,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/DecWeek1/FirstLetterToAppearTwice.java</url>
+          <line>9</line>
+          <properties class="DecWeek1.FirstLetterToAppearTwice" method="repeatedCharacter">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
