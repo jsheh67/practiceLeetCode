@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01a24ada-7ae9-4fe3-823c-8786350fb66a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/DestinationCity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/DivideArrayToEqualPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/FirstLetterToAppearTwice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/NRepeatedElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/DoubleReversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/HammingDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/MaxBallsInBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/MaxBoxes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/MergeInBetweenLinkedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/MinimumDeciBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/NegativeNumbersInMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/RangeSumOfBst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/RemoveAllOccurances.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/SumOfUniqueElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,9 +48,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FirstLetterToAppearTwice">
-    <configuration name="DecryptStringFromAlphabetToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DecWeek1.DecryptStringFromAlphabetToInteger" />
+  <component name="RunManager" selected="Application.MinimumDeciBinary">
+    <configuration name="MaxBallsInBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecWeek1.MaxBallsInBox" />
       <module name="practiceLeetCode" />
       <extension name="coverage">
         <pattern>
@@ -56,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstLetterToAppearTwice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DecWeek1.FirstLetterToAppearTwice" />
+    <configuration name="MaxBoxes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecWeek1.MaxBoxes" />
       <module name="practiceLeetCode" />
       <extension name="coverage">
         <pattern>
@@ -69,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MatrixDiagonal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DecWeek1.MatrixDiagonal" />
+    <configuration name="MinimumDeciBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecWeek1.MinimumDeciBinary" />
       <module name="practiceLeetCode" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OddEvenLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DecWeek1.OddEvenLinkedList" />
+    <configuration name="RemoveAllOccurances" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecWeek1.RemoveAllOccurances" />
       <module name="practiceLeetCode" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DecWeek1.ReverseIntegers" />
+    <configuration name="SumOfUniqueElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecWeek1.SumOfUniqueElements" />
       <module name="practiceLeetCode" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FirstLetterToAppearTwice" />
-        <item itemvalue="Application.ReverseIntegers" />
-        <item itemvalue="Application.DecryptStringFromAlphabetToInteger" />
-        <item itemvalue="Application.OddEvenLinkedList" />
-        <item itemvalue="Application.MatrixDiagonal" />
+        <item itemvalue="Application.MinimumDeciBinary" />
+        <item itemvalue="Application.MaxBoxes" />
+        <item itemvalue="Application.RemoveAllOccurances" />
+        <item itemvalue="Application.SumOfUniqueElements" />
+        <item itemvalue="Application.MaxBallsInBox" />
       </list>
     </recent_temporary>
   </component>
@@ -270,6 +276,42 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/DecWeek1/HammingDistance.java</url>
+          <line>5</line>
+          <properties class="DecWeek1.HammingDistance" method="hammingDistance">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/DecWeek1/SumOfUniqueElements.java</url>
+          <line>6</line>
+          <properties class="DecWeek1.SumOfUniqueElements" method="sumOfUnique">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/DecWeek1/RemoveAllOccurances.java</url>
+          <line>3</line>
+          <properties class="DecWeek1.RemoveAllOccurances" method="removeOccurrences">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/DecWeek1/MaxBoxes.java</url>
+          <line>6</line>
+          <properties class="DecWeek1.MaxBoxes" method="maximumUnits">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="31" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
