@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01a24ada-7ae9-4fe3-823c-8786350fb66a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/DoubleReversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/HammingDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/MaxBallsInBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/MaxBoxes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/MergeInBetweenLinkedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/MinimumDeciBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/NegativeNumbersInMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/RangeSumOfBst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/RemoveAllOccurances.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/SumOfUniqueElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/CellsInRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/LeafSimilarTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/SubrectangleQueries.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,9 +41,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MinimumDeciBinary">
-    <configuration name="MaxBallsInBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DecWeek1.MaxBallsInBox" />
+  <component name="RunManager" selected="Application.CellsInRange">
+    <configuration name="CellsInRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecWeek1.CellsInRange" />
       <module name="practiceLeetCode" />
       <extension name="coverage">
         <pattern>
@@ -116,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CellsInRange" />
         <item itemvalue="Application.MinimumDeciBinary" />
         <item itemvalue="Application.MaxBoxes" />
         <item itemvalue="Application.RemoveAllOccurances" />
         <item itemvalue="Application.SumOfUniqueElements" />
-        <item itemvalue="Application.MaxBallsInBox" />
       </list>
     </recent_temporary>
   </component>
@@ -168,6 +161,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/NovWeekOne/CountItemsMatchingRule.java</url>
           <line>24</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DecWeek1/CellsInRange.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/NovWeekOne/decodeMessage.java</url>
