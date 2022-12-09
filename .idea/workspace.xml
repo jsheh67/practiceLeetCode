@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01a24ada-7ae9-4fe3-823c-8786350fb66a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/CellsInRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/LeafSimilarTrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/SubrectangleQueries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/AverageOfLevelsInBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/BaseballGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/CorrespondingNodeInClone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/CountBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/MinTimeToTypeWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/NextGreaterElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/ObtainZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/RobotOrigin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/SplitIntoBalancedString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/TwoOfThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/WeakestRows.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,8 +49,34 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CellsInRange">
-    <configuration name="CellsInRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.DecWeek1.MinTimeToTypeWord">
+    <configuration name="DecWeek1.AverageOfLevelsInBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecWeek1.AverageOfLevelsInBinaryTree" />
+      <module name="practiceLeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DecWeek1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DecWeek1.BaseballGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecWeek1.BaseballGame" />
+      <module name="practiceLeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DecWeek1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DecWeek1.CellsInRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DecWeek1.CellsInRange" />
       <module name="practiceLeetCode" />
       <extension name="coverage">
@@ -55,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxBoxes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DecWeek1.MaxBoxes" />
+    <configuration name="DecWeek1.MinTimeToTypeWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecWeek1.MinTimeToTypeWord" />
       <module name="practiceLeetCode" />
       <extension name="coverage">
         <pattern>
@@ -68,34 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumDeciBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="DecWeek1.MinimumDeciBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DecWeek1.MinimumDeciBinary" />
-      <module name="practiceLeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DecWeek1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RemoveAllOccurances" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DecWeek1.RemoveAllOccurances" />
-      <module name="practiceLeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DecWeek1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumOfUniqueElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DecWeek1.SumOfUniqueElements" />
       <module name="practiceLeetCode" />
       <extension name="coverage">
         <pattern>
@@ -109,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CellsInRange" />
-        <item itemvalue="Application.MinimumDeciBinary" />
-        <item itemvalue="Application.MaxBoxes" />
-        <item itemvalue="Application.RemoveAllOccurances" />
-        <item itemvalue="Application.SumOfUniqueElements" />
+        <item itemvalue="Application.DecWeek1.MinTimeToTypeWord" />
+        <item itemvalue="Application.DecWeek1.AverageOfLevelsInBinaryTree" />
+        <item itemvalue="Application.DecWeek1.BaseballGame" />
+        <item itemvalue="Application.DecWeek1.CellsInRange" />
+        <item itemvalue="Application.DecWeek1.MinimumDeciBinary" />
       </list>
     </recent_temporary>
   </component>
@@ -310,6 +318,24 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/DecWeek1/BaseballGame.java</url>
+          <line>9</line>
+          <properties class="DecWeek1.BaseballGame" method="calPoints">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/DecWeek1/AverageOfLevelsInBinaryTree.java</url>
+          <line>22</line>
+          <properties class="DecWeek1.AverageOfLevelsInBinaryTree" method="BFS">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
