@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01a24ada-7ae9-4fe3-823c-8786350fb66a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/AverageOfLevelsInBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/BaseballGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/CorrespondingNodeInClone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/CountBits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/MinTimeToTypeWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/NextGreaterElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/ObtainZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/RobotOrigin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/SplitIntoBalancedString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/TwoOfThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecWeek1/WeakestRows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecemberWeek2/ClimbingStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecemberWeek2/FindIndexesAfterSortingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecemberWeek2/LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecemberWeek2/MergeTwoSortedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecemberWeek2/RomanToInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecemberWeek2/TargetArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,13 +44,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DecWeek1.MinTimeToTypeWord">
-    <configuration name="DecWeek1.AverageOfLevelsInBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DecWeek1.AverageOfLevelsInBinaryTree" />
+  <component name="RunManager" selected="Application.MergeTwoSortedLists">
+    <configuration name="ClimbingStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecemberWeek2.ClimbingStairs" />
       <module name="practiceLeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DecWeek1.*" />
+          <option name="PATTERN" value="DecemberWeek2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecWeek1.BaseballGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DecWeek1.BaseballGame" />
+    <configuration name="LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecemberWeek2.LongestCommonPrefix" />
       <module name="practiceLeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DecWeek1.*" />
+          <option name="PATTERN" value="DecemberWeek2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecWeek1.CellsInRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DecWeek1.CellsInRange" />
+    <configuration name="MergeTwoSortedLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecemberWeek2.MergeTwoSortedLists" />
       <module name="practiceLeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DecWeek1.*" />
+          <option name="PATTERN" value="DecemberWeek2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecWeek1.MinTimeToTypeWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DecWeek1.MinTimeToTypeWord" />
+    <configuration name="RomanToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecemberWeek2.RomanToInteger" />
       <module name="practiceLeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DecWeek1.*" />
+          <option name="PATTERN" value="DecemberWeek2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecWeek1.MinimumDeciBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DecWeek1.MinimumDeciBinary" />
+    <configuration name="TargetArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecemberWeek2.TargetArray" />
       <module name="practiceLeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DecWeek1.*" />
+          <option name="PATTERN" value="DecemberWeek2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DecWeek1.MinTimeToTypeWord" />
-        <item itemvalue="Application.DecWeek1.AverageOfLevelsInBinaryTree" />
-        <item itemvalue="Application.DecWeek1.BaseballGame" />
-        <item itemvalue="Application.DecWeek1.CellsInRange" />
-        <item itemvalue="Application.DecWeek1.MinimumDeciBinary" />
+        <item itemvalue="Application.MergeTwoSortedLists" />
+        <item itemvalue="Application.RomanToInteger" />
+        <item itemvalue="Application.LongestCommonPrefix" />
+        <item itemvalue="Application.ClimbingStairs" />
+        <item itemvalue="Application.TargetArray" />
       </list>
     </recent_temporary>
   </component>
@@ -336,6 +331,33 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/DecemberWeek2/TargetArray.java</url>
+          <line>6</line>
+          <properties class="DecemberWeek2.TargetArray" method="createTargetArray">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/DecemberWeek2/LongestCommonPrefix.java</url>
+          <line>5</line>
+          <properties class="DecemberWeek2.LongestCommonPrefix" method="longestCommonPrefix">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/DecemberWeek2/MergeTwoSortedLists.java</url>
+          <line>14</line>
+          <properties class="DecemberWeek2.MergeTwoSortedLists" method="mergeTwoLists">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="38" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
