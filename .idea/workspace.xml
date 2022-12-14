@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01a24ada-7ae9-4fe3-823c-8786350fb66a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecemberWeek2/ClimbingStairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecemberWeek2/FindIndexesAfterSortingArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecemberWeek2/LongestCommonPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecemberWeek2/MergeTwoSortedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecemberWeek2/RomanToInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecemberWeek2/TargetArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecemberWeek2/HouseRobber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecemberWeek2/MinimumFallingPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecemberWeek2/NumberOf1Bits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecemberWeek2/RearrangeArrayElementsBySign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecemberWeek2/RemoveDuplicateSortedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,21 +43,8 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MergeTwoSortedLists">
-    <configuration name="ClimbingStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DecemberWeek2.ClimbingStairs" />
-      <module name="practiceLeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DecemberWeek2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.RemoveDuplicateSortedList">
+    <configuration name="DecemberWeek2.LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DecemberWeek2.LongestCommonPrefix" />
       <module name="practiceLeetCode" />
       <extension name="coverage">
@@ -71,7 +57,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeTwoSortedLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="DecemberWeek2.MergeTwoSortedLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DecemberWeek2.MergeTwoSortedLists" />
       <module name="practiceLeetCode" />
       <extension name="coverage">
@@ -84,7 +70,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RomanToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="DecemberWeek2.RomanToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DecemberWeek2.RomanToInteger" />
       <module name="practiceLeetCode" />
       <extension name="coverage">
@@ -97,8 +83,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TargetArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DecemberWeek2.TargetArray" />
+    <configuration name="MinimumFallingPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecemberWeek2.MinimumFallingPath" />
+      <module name="practiceLeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DecemberWeek2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveDuplicateSortedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecemberWeek2.RemoveDuplicateSortedList" />
       <module name="practiceLeetCode" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MergeTwoSortedLists" />
-        <item itemvalue="Application.RomanToInteger" />
-        <item itemvalue="Application.LongestCommonPrefix" />
-        <item itemvalue="Application.ClimbingStairs" />
-        <item itemvalue="Application.TargetArray" />
+        <item itemvalue="Application.RemoveDuplicateSortedList" />
+        <item itemvalue="Application.MinimumFallingPath" />
+        <item itemvalue="Application.DecemberWeek2.MergeTwoSortedLists" />
+        <item itemvalue="Application.DecemberWeek2.RomanToInteger" />
+        <item itemvalue="Application.DecemberWeek2.LongestCommonPrefix" />
       </list>
     </recent_temporary>
   </component>
@@ -358,6 +357,24 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/DecemberWeek2/MinimumFallingPath.java</url>
+          <line>30</line>
+          <properties class="DecemberWeek2.MinimumFallingPath" method="minFallingPathSum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/DecemberWeek2/RemoveDuplicateSortedList.java</url>
+          <line>10</line>
+          <properties class="DecemberWeek2.RemoveDuplicateSortedList" method="deleteDuplicates">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="40" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
