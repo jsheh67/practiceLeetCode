@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01a24ada-7ae9-4fe3-823c-8786350fb66a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecemberWeek2/HouseRobber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecemberWeek2/MinimumFallingPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecemberWeek2/NumberOf1Bits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecemberWeek2/RearrangeArrayElementsBySign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DecemberWeek2/RemoveDuplicateSortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecemberWeek2/BalanceBinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecemberWeek2/BuyAndSellStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecemberWeek2/LongestCommonSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecemberWeek2/OptimalPartitionOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecemberWeek2/RemovePalindromicSubsequences.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,35 +43,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RemoveDuplicateSortedList">
-    <configuration name="DecemberWeek2.LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DecemberWeek2.LongestCommonPrefix" />
-      <module name="practiceLeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DecemberWeek2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DecemberWeek2.MergeTwoSortedLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DecemberWeek2.MergeTwoSortedLists" />
-      <module name="practiceLeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DecemberWeek2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DecemberWeek2.RomanToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DecemberWeek2.RomanToInteger" />
+  <component name="RunManager" selected="Application.OptimalPartitionOfString">
+    <configuration name="LongestCommonSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecemberWeek2.LongestCommonSubsequence" />
       <module name="practiceLeetCode" />
       <extension name="coverage">
         <pattern>
@@ -96,6 +70,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OptimalPartitionOfString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecemberWeek2.OptimalPartitionOfString" />
+      <module name="practiceLeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DecemberWeek2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RemoveDuplicateSortedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DecemberWeek2.RemoveDuplicateSortedList" />
       <module name="practiceLeetCode" />
@@ -109,13 +96,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RemovePalindromicSubsequences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecemberWeek2.RemovePalindromicSubsequences" />
+      <module name="practiceLeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DecemberWeek2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OptimalPartitionOfString" />
+        <item itemvalue="Application.RemovePalindromicSubsequences" />
+        <item itemvalue="Application.LongestCommonSubsequence" />
         <item itemvalue="Application.RemoveDuplicateSortedList" />
         <item itemvalue="Application.MinimumFallingPath" />
-        <item itemvalue="Application.DecemberWeek2.MergeTwoSortedLists" />
-        <item itemvalue="Application.DecemberWeek2.RomanToInteger" />
-        <item itemvalue="Application.DecemberWeek2.LongestCommonPrefix" />
       </list>
     </recent_temporary>
   </component>
@@ -375,6 +375,24 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/DecemberWeek2/LongestCommonSubsequence.java</url>
+          <line>13</line>
+          <properties class="DecemberWeek2.LongestCommonSubsequence" method="longestCommonSubsequence">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/DecemberWeek2/OptimalPartitionOfString.java</url>
+          <line>6</line>
+          <properties class="DecemberWeek2.OptimalPartitionOfString" method="OptimalPartitionOfString">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="43" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
